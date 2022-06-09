@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zqNKw8UOF+alnRkOJP6VFOH2pmulvwWHmnosj6a5sz1zaHf0qSHJOfTZnj683vRD6vTFMmdw31X37xtRsyPJrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zynls\\RiderProjects\\fluentApi\\Collections2\\Collections2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zynls\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

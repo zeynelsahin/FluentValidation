@@ -1,0 +1,17 @@
+C:\Users\zynls\RiderProjects\fluentApi\fluentApi\bin\Debug\net6.0\fluentApi.exe
+C:\Users\zynls\RiderProjects\fluentApi\fluentApi\bin\Debug\net6.0\fluentApi.deps.json
+C:\Users\zynls\RiderProjects\fluentApi\fluentApi\bin\Debug\net6.0\fluentApi.runtimeconfig.json
+C:\Users\zynls\RiderProjects\fluentApi\fluentApi\bin\Debug\net6.0\fluentApi.dll
+C:\Users\zynls\RiderProjects\fluentApi\fluentApi\bin\Debug\net6.0\fluentApi.pdb
+C:\Users\zynls\RiderProjects\fluentApi\fluentApi\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\zynls\RiderProjects\fluentApi\fluentApi\obj\Debug\net6.0\fluentApi.csproj.AssemblyReference.cache
+C:\Users\zynls\RiderProjects\fluentApi\fluentApi\obj\Debug\net6.0\fluentApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zynls\RiderProjects\fluentApi\fluentApi\obj\Debug\net6.0\fluentApi.AssemblyInfoInputs.cache
+C:\Users\zynls\RiderProjects\fluentApi\fluentApi\obj\Debug\net6.0\fluentApi.AssemblyInfo.cs
+C:\Users\zynls\RiderProjects\fluentApi\fluentApi\obj\Debug\net6.0\fluentApi.csproj.CoreCompileInputs.cache
+C:\Users\zynls\RiderProjects\fluentApi\fluentApi\obj\Debug\net6.0\fluentApi.csproj.CopyComplete
+C:\Users\zynls\RiderProjects\fluentApi\fluentApi\obj\Debug\net6.0\fluentApi.dll
+C:\Users\zynls\RiderProjects\fluentApi\fluentApi\obj\Debug\net6.0\refint\fluentApi.dll
+C:\Users\zynls\RiderProjects\fluentApi\fluentApi\obj\Debug\net6.0\fluentApi.pdb
+C:\Users\zynls\RiderProjects\fluentApi\fluentApi\obj\Debug\net6.0\fluentApi.genruntimeconfig.cache
+C:\Users\zynls\RiderProjects\fluentApi\fluentApi\obj\Debug\net6.0\ref\fluentApi.dll

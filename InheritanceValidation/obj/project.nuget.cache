@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JSgZjapitG2x1LFWkeFoO8XxCi7z2Q3l1THs2sFsZJzbnIzygjitDW3YF1VJdLIpvLAHrb5g11tzezNZE163UQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zynls\\RiderProjects\\fluentApi\\InheritanceValidation\\InheritanceValidation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zynls\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

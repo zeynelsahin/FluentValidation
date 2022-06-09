@@ -1,0 +1,5 @@
+C:\Users\zynls\RiderProjects\fluentApi\InheritanceValidation\obj\Debug\net6.0\InheritanceValidation.csproj.AssemblyReference.cache
+C:\Users\zynls\RiderProjects\fluentApi\InheritanceValidation\obj\Debug\net6.0\InheritanceValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zynls\RiderProjects\fluentApi\InheritanceValidation\obj\Debug\net6.0\InheritanceValidation.AssemblyInfoInputs.cache
+C:\Users\zynls\RiderProjects\fluentApi\InheritanceValidation\obj\Debug\net6.0\InheritanceValidation.AssemblyInfo.cs
+C:\Users\zynls\RiderProjects\fluentApi\InheritanceValidation\obj\Debug\net6.0\InheritanceValidation.csproj.CoreCompileInputs.cache
